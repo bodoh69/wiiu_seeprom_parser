@@ -1,0 +1,7 @@
+otp.bin
+seeprom.bin
+
+# possible compiler output
+seeprom_parse
+wiiu_seeprom_parser
+a.out
